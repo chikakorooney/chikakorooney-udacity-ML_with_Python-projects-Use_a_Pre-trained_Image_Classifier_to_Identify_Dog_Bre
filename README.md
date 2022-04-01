@@ -12,3 +12,4 @@ files ending in .txt > theese are the output statistics from running respective 
 
 files ending in .sh > batch files to run the test for three models at the same time
 
+check_images.py > main python file which runs using other .py files.
