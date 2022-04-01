@@ -8,7 +8,15 @@ pet_images folder > pictures are saved here which are used to demonstrate how th
 
 uploaded_images folder > if you wanted to test your own, to upload photos here
 
-files ending in .txt > theese are the output statistics from running respective models
+alexnet_pet-images.txt
+vgg_pet-images.txt
+resnet_pet-images.txt
+> theese are the output statistics from running respective models on images in pet_images folder
+
+resnet_uploaded-images.txt
+vgg_uploaded-images.txt
+alexnet_uploaded-images.txt
+> theese are the output statistics from running respective models on images in uploaded_images folder
 
 files ending in .sh > batch files to run the test for three models at the same time
 
